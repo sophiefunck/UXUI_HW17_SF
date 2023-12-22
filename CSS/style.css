@@ -39,8 +39,8 @@
     font-weight: 400;
     color: white;
     font-size: 20px;
-    letter-spacing: var(--p2-letter-spacing);
-    line-height: var(--p2-line-height);
+    letter-spacing:auto;
+    line-height: 14;
     font-style: normal;
     }
     .desktop-homepage .div-2 {
